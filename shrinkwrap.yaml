@@ -1,24 +1,53 @@
 dependencies:
-  google-closure-library: 20190819.0.0
-  ws: 7.1.2
+  eris: 0.8.6
+  google-closure-library: 20180506.0.0
+  ws: 6.1.4
 packages:
   /async-limiter/1.0.1:
     dev: false
     resolution:
       integrity: sha512-csOlWGAcRFJaI6m+F2WKdnMKr4HhdhFVBk0H/QbJFMCr+uO2kwohwXQPxw/9OCxp05r5ghVBFSyioixx3gfkNQ==
-  /google-closure-library/20190819.0.0:
+  /eris/0.8.6:
+    dependencies:
+      ws: 5.2.2
+    dev: false
+    engines:
+      node: '>=4.0.0'
+    optionalDependencies:
+      opusscript: 0.0.4
+      tweetnacl: 1.0.3
+    resolution:
+      integrity: sha512-mEE+hMxs1YrQhu7YSs8jTUoaZC0ahWDNPLR9Iq/FmIzXYPBIEFKXpL00jbARa36Xpay7fmc/cQfJLwhebDMwuw==
+  /google-closure-library/20180506.0.0:
     dev: false
     resolution:
-      integrity: sha512-2tSjWrxrd8y3YZh6lWMUvNb8ZKmnPckDixK2z4twD+BBWVFW6I8qCt/xnTzvwAQH8C37lPdvjAQ132qMeXgp8w==
-  /ws/7.1.2:
+      integrity: sha1-LS2pLCfBDcADE//4ClFYtVTKmQg=
+  /opusscript/0.0.4:
+    dev: false
+    optional: true
+    resolution:
+      integrity: sha512-bEPZFE2lhUJYQD5yfTFO4RhbRZ937x6hRwBC1YoGacT35bwDVwKFP1+amU8NYfZL/v4EU7ZTU3INTqzYAnuP7Q==
+  /tweetnacl/1.0.3:
+    dev: false
+    optional: true
+    resolution:
+      integrity: sha512-6rt+RN7aOi1nGMyC4Xa5DdYiukl2UWCbcJft7YhxReBGQD7OAM8Pbxw6YMo4r2diNEA8FEmu32YOn9rhaiE5yw==
+  /ws/5.2.2:
     dependencies:
       async-limiter: 1.0.1
     dev: false
     resolution:
-      integrity: sha512-gftXq3XI81cJCgkUiAVixA0raD9IVmXqsylCrjRygw4+UOOGzPoxnQ6r/CnVL9i+mDncJo94tSkyrtuuQVBmrg==
+      integrity: sha512-jaHFD6PFv6UgoIVda6qZllptQsMlDEJkTQcybzzXDYM1XO9Y8em691FGMPmM46WGyLU4z9KMgQN+qrux/nhlHA==
+  /ws/6.1.4:
+    dependencies:
+      async-limiter: 1.0.1
+    dev: false
+    resolution:
+      integrity: sha512-eqZfL+NE/YQc1/ZynhojeV8q+H050oR8AZ2uIev7RU10svA9ZnJUddHcOUZTJLinZ9yEfdA2kSATS2qZK5fhJA==
 registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
-  google-closure-library: ^20190819.0.0
-  ws: ^7.1.2
+  eris: ^0.8.6
+  google-closure-library: 20180506.0.0
+  ws: 6.1.x
