@@ -1,10 +1,31 @@
 # Notice: The update will only worked if you reload it
+# 6/10/2020 (2)
+- Replace Machete and Electrician with Pound Single (Single branch)
+# 6/10/2020 (1)
+- Add C-4, upgraded from Launcher
+# 4/10/2020
+- Add Launcher branch, upgraded from Destroyer
+- Add Injector, upgraded from Launcher
+- Skimmer now also upgraded from Launcher
+# 3/10/2020
+- Add Chasseur, upgraded from Lancer
+- Add Warship, upgraded from Swarm Director
+- Twinseer now had a color barrel
+# 1/11/2020: A new month
+- Add Abominator, upgraded from Ordnance
+- Add Ring Shot, upgraded from Destroyer
+# 28/10/2020 (3): ???
+- Add Rainbow Annihilator, upgraded from Annihilator
+- Remove Shottrap
+- Remove Homing Gun
 # 28/10/2020 (2): ??
 - Add my Discord and Youtube channel links, they are under the options
 - Remove some keys that can't work in the server
 # 28/10/2020 (1): ?
 - Add Sun, upgraded from Valkyrie
-- Change Grower's body
+- Add Hewn Glider, upgraded from Hewn Double
+- Change Overdouble's body a bit
+- Change Grower's body a bit
 # 26/10/2020: Among Us reference
 - Add Fertilizer, upgraded from Twin and its next-tier tank: Impostor
 - Add Manufacturer, upgraded from Factory
@@ -170,3 +191,4 @@
 # 24/8/2020
 
 -Chidur.io was created
+
