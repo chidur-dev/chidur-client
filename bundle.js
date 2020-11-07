@@ -3234,7 +3234,7 @@
                     id: "a",
                     type: "baseffa",
                     code: "chidur-io",
-                    at: p.glitch("beta-tank"),
+                    at: p.heroku("chidur-client"),
                 },].map((a, e) => ({
                     data: a,
                     i: e
