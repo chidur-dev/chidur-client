@@ -1,4 +1,44 @@
 # Notice: The update will only worked if you reload it
+# 19/11/2020 (2)
+- Add Howitzer, upgraded from Predator
+- Add Bazooka, upgraded from Launcher
+# 19/11/2020 (1)
+- Add new branch Owl, upgraded from Tri-Angle:
+- Add Crow: An Owl that has 2 small guns in the front and 2 on the back
+- Add Hummingbird: An Owl that has Gunner barrel on the back
+- Add Harrier: An Owl that has Gunner barrel in the front and Booster back barrel on the back
+# 18/11/2020
+- Add Coach Gun, upgraded from Shotgun
+- Add Revolver, upgraded from Fighter
+- Add Snatcher, upgraded from Pounder and Gunner
+- Add M-1216, upgraded from Vulcan
+# 15/11/2020 (3)
+- Add new branch Enzyme, upgraded from Builder:
+- Add Oxyoreductase: An Enzyme that shoot blocks that split into 2 grow blocks
+- Add Transferase: An Enzyme that shoot blocks that split into 2 trap missiles
+- Add Hydrolase: An Enzyme that shoot blocks that split into swarms
+# 15/11/2020 (2)
+- Add Carnivore, upgraded from Sniper
+- Add Flooder, upgraded from Shotgun
+# 15/11/2020 (1)
+- Changed and renamed Laser Shot to Laser Gun
+- Add Shrapnel, upgraded from Launcher
+- Add Triazole and Imidazole, upgraded from Sidewinder
+- Add Plasma Gun, upgraded from Grower
+# 14/11/2020
+- Launcher now upgraded from Pounder
+# 11/11/2020
+- Add Besetter, upgraded from Skimmer
+- Renamed Mega-Trapper to Constructor (how can i forget that ?)
+# 9/11/2020
+- Add Slicer, upgraded from Recruit
+- Nerf Overdouble's damage
+- Fix some minor bugs
+# 8/10/2020
+- Add Recruit, upgraded from Steerer
+- Add Kamäinsfeier, upgraded from Launcher
+- Arena Closer function are in progress
+- Changing host server to Heroku are in progress
 # 6/10/2020 (2)
 - Replace Machete and Electrician with Pound Single (Single branch)
 # 6/10/2020 (1)

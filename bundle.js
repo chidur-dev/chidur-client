@@ -3087,6 +3087,7 @@
                 KEY_AUTO_SPIN: 67,
                 KEY_OVER_RIDE: 82,
                 KEY_LEVEL_UP: 78,
+              KEY_TELEPORT: 84,
                 KEY_ABILITY: 70,
                 KEY_REVERSE_TANK: 86,
                 KEY_REVERSE_MOUSE: 66,
@@ -3231,10 +3232,10 @@
                     at: "private",
                     untrusted: !0
                 }, {
-                    id: "a",
-                    type: "baseffa",
+                    id: "4tdm",
+                    type: "4tdm",
                     code: "chidur-io",
-                    at: p.heroku("chidur-client"),
+                    at: p.glitch("beta-tank"),
                 },].map((a, e) => ({
                     data: a,
                     i: e
@@ -3877,6 +3878,9 @@
                                 case a.KEY_KILL_YOURSELF:
                                     this.emit("K");
                                     break;
+                                     case a.KEY_TELEPORT:
+                  this.emit("L");
+                  break; 
                                 case a.KEY_PING:
                                     a.showDebug = !0;
                                     break;
