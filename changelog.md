@@ -1,4 +1,6 @@
 # Notice: The update will only worked if you reload it
+# 24/11/2020
+- Due to the problem when deploying the server, I have to remove some tanks, sorry about that
 # 19/11/2020 (2)
 - Add Howitzer, upgraded from Predator
 - Add Bazooka, upgraded from Launcher
