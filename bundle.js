@@ -3235,7 +3235,7 @@
                     id: "4tdm",
                     type: "4tdm",
                     code: "chidur-io",
-                    at: p.heroku("chidur-io"),
+                    at: p.heroku("beta-tank"),
                 },].map((a, e) => ({
                     data: a,
                     i: e
